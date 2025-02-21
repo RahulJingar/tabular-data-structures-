@@ -1,5 +1,3 @@
-// (IQ Level) {90, 110, 140} ko Below Avg (<100), Avg (100-120), Genius (>120) classify karo.
-
 #include<bits/stdc++.h>
 using namespace std;
 struct checkClassify
